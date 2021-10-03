@@ -1,0 +1,147 @@
+[
+    {
+      "_id": "6159da2ea12053f234f95b22",
+      "isActive": false,
+      "picture": "https://img-c.udemycdn.com/course/240x135/3618040_34de_5.jpg",
+      "price": 84,
+      "name": "Become a Web Designer - HTML & CSS for Beginners",
+      "teacher": "Chandrasekaran Janardhanan",
+      "about": "Contains step by step instructions. Learn HTML, CSS with Flex, Grid, Icons & Responsive Web Design"
+    },
+    {
+      "_id": "6159da2e53a42435c940678d",
+      "isActive": true,
+      "picture": "https://img-c.udemycdn.com/course/240x135/2663858_b6d0_2.jpg",
+      "price": 375,
+      "name": "Google Analytics For Beginners",
+      "teacher": "MEMORA",
+      "about": "Complete Guide from setting up your Google Analytics Account to diving further into Google Analytics & reporting"
+    },
+    {
+      "_id": "6159da2e75a86b3f0cd27c69",
+      "isActive": true,
+      "picture": "https://img-c.udemycdn.com/course/240x135/2722434_fd59_6.jpg",
+      "price": 301,
+      "name": "Python Programming - From Basics to Advanced level [2021]",
+      "teacher": "GADTRON",
+      "about": "This Python for beginners course will help you to become Zero to Hero. Learn Python Programming in Easy Way."
+    },
+    {
+      "_id": "6159da2ed0749111e20dcf8d",
+      "isActive": false,
+      "picture": "https://img-c.udemycdn.com/course/240x135/2120874_a33d_2.jpg",
+      "price": 151,
+      "name": "SQL Masterclass: SQL for Data Analytics",
+      "teacher": "BUGSALL",
+      "about": "SQL course covering basic to advanced SQL topics for SQL Database ( PostgreSQL ). Elucidates SQL Database for beginners"
+    },
+    {
+      "_id": "6159da2ea1ad4ddd3356b318",
+      "isActive": false,
+      "picture": "https://img-c.udemycdn.com/course/240x135/3812128_3674.jpg",
+      "price": 86,
+      "name": "Complete PYTHON Programming for Beginners - 2021",
+      "teacher": "INSURESYS",
+      "about": "The easiest way to learn Python in-depth and build complex, scalable programs!"
+    },
+    {
+      "_id": "6159da2e71324b5067cd998f",
+      "isActive": true,
+      "picture": "https://img-c.udemycdn.com/course/240x135/4231900_d05e_2.jpg",
+      "price": 391,
+      "name": "Data science with R: tidyverse",
+      "teacher": "COMCUBINE",
+      "about": "R Programming Language, Data Analysis, Data Cleaning, Data Science, Data Wrangling, tidyverse, dplyr, ggplot2, RStudio"
+    },
+        {
+          "_id": "6159dd2e95cfa4616241478a",
+          "isActive": false,
+          "picture": "https://img-c.udemycdn.com/course/240x135/4197696_f2a7_3.jpg",
+          "price": 227,
+          "name": "Machine Learning Model Deployment with Flask, React & NodeJS",
+          "teacher": "BALUBA",
+          "about": "Use web development tools Node.JS, React and Flask to deploy your Data Science models to web apps!"
+        },
+        {
+          "_id": "6159dd2e96c7330973d1e3a7",
+          "isActive": false,
+          "picture": "https://img-c.udemycdn.com/course/240x135/4268522_88bf_5.jpg",
+          "price": 77,
+          "name": "20 Real World Data Science & Machine Learning Projects 2021",
+          "teacher": "MINGA",
+          "about": "Pandas fully explained | Must-have skills for Machine Learning & Finance | Financial Analysisn"
+        },
+        {
+          "_id": "6159dd2e7405ada70cee8ba1",
+          "isActive": false,
+          "picture": "https://img-c.udemycdn.com/course/240x135/4059844_fca3_2.jpg",
+          "price": 136,
+          "name": "Pre-Data Science Course 2021 : How to Start Your Preparation",
+          "teacher": "QUAREX",
+          "about": "Start your preparation the right way in Data Science: Know about skills, roles, building resume to getting an interview."
+        },
+        {
+          "_id": "6159dd2e63d6765f183bf774",
+          "isActive": false,
+          "picture": "https://img-c.udemycdn.com/course/240x135/4200932_5d87.jpg",
+          "price": 391,
+          "name": "Unreal Engine 5 (UE5): Complete Beginners Course",
+          "teacher": "ZINCA",
+          "about": "Master Unreal Engine by Creating a Complete Shooter Game!"
+        },
+        {
+          "_id": "6159dd2ec05668a8d7e7dd33",
+          "isActive": false,
+          "picture": "https://img-c.udemycdn.com/course/240x135/793796_0e89.jpg",
+          "price": 308,
+          "name": "Microsoft Excel - Excel from Beginner to Advanced",
+          "teacher": "BUZZNESS",
+          "about": "Excel with this A-Z Microsoft Excel Course. Microsoft Excel 2010, 2013, 2016, Excel 2019 and Microsoft/Office 365"
+        },
+        {
+          "_id": "6159dd2e592e134c834e3dac",
+          "isActive": true,
+          "picture": " https://img-c.udemycdn.com/course/240x135/2272508_45da_3.jpg",
+          "price": 96,
+          "name": "The Complete Full-Stack JavaScript Course!",
+          "teacher": "INTERGEEK",
+          "about": "Learn full-stack web development using JavaScript (ReactJS, NodeJS, LoopbackJS, Redux and Material-UI)!"
+        },
+        {
+          "_id": "6159dd2edac4e4fc63878d8f",
+          "isActive": true,
+          "picture": "https://img-c.udemycdn.com/course/240x135/3896504_f0ae.jpg",
+          "price": 363,
+          "name": "Mastering OCR using Deep Learning and OpenCV-Python",
+          "teacher": "VIASIA",
+          "about": "A complete guide to optical character recognition pipeline using Deep Learning, python and OpenCV"
+        },
+        {
+          "_id": "6159dd2e6b9547b399398698",
+          "isActive": true,
+          "picture": "https://img-c.udemycdn.com/course/240x135/2062941_0a75_2.jpg",
+          "price": 214,
+          "name": "neural networks for sentiment and stock price prediction",
+          "teacher": "GLUKGLUK",
+          "about": "How to predict stock prices with neural networks and sentiment with neural networks. Machine learning hands on data scie"
+        },
+        {
+          "_id": "6159dd2ee857e81fb8051235",
+          "isActive": false,
+          "picture": "https://img-c.udemycdn.com/course/240x135/3130676_780c_3.jpg",
+          "price": 320,
+          "name": "Deep Learning in Practice III: Face Recognition",
+          "teacher": "KINDALOO",
+          "about": "Get started with face recognition using MTCNN and FaceNet with Tensorflow and Keras"
+        },
+        {
+          "_id": "6159dd2e27ea5da7fc62d721",
+          "isActive": true,
+          "picture": "https://img-c.udemycdn.com/course/240x135/2198810_a51b_4.jpg",
+          "price": 268,
+          "name": "Mask R-CNN - Practical Deep Learning Segmentation in 1 hour",
+          "teacher": "ZAYA",
+          "about": "The Practical Guide to Create your own AI Semantic Segmentation: Learn the Full Workflow - From Training to Inference"
+        }
+      
+  ]
