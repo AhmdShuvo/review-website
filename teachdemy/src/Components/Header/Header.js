@@ -1,5 +1,5 @@
 import React from 'react';
-import { CardImg, Carousel, Container, Image, Nav, Navbar } from 'react-bootstrap';
+import {Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 
 const Header = () => {
@@ -7,6 +7,8 @@ const Header = () => {
 
         // nav bar //
         <div className="mb-5">
+
+
                <Navbar bg="primary" variant="dark">
     
     <Nav className="m-auto">

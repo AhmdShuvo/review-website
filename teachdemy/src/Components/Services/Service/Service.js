@@ -2,10 +2,14 @@ import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 
 const Service = (props) => {
+
+  // destructuting //
     
-    const {about,name,price,teacher,picture,_id}=props.service;
+    const {about,name,price,teacher,picture}=props.service;
     return (
         
+
+      // card for single prouduct //
             <Col className="mt-5" >
       <Card className="shadow-lg p-3 mb-5 bg-body rounded">
         <Card.Img  className="p-3 border"variant="top" src={picture}/>

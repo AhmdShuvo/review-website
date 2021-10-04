@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
-import { Card, Col, Row } from 'react-bootstrap';
+import { Row } from 'react-bootstrap';
 import HomeServce from './HomeServce';
 
 const Home = () => {
-
+            //  useState//
     const [services,setservices]=useState([])
-
+        // fetch data //
     useEffect(()=>{
         fetch("./Courses.json").then(res=>res.json()).then(data=>setservices(data.slice(0,4)))
     },[])
@@ -23,7 +23,7 @@ const Home = () => {
       </div>
 
 
-
+         {/* Bonus part  */}
       <h1>Why Teachdemy </h1>
 
 <div className=" container d-md-flex"> 
@@ -44,7 +44,8 @@ const Home = () => {
    </div>
              
 </div>
-
+                  
+                  {/* Showing 4 coourses  */}
 
                       <div className="mt-5">
                           <h1>Courses</h1>

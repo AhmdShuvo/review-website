@@ -15,6 +15,8 @@ const EditorsChoise = () => {
         <div>
             <h1>Best Choise for You </h1>
                {
+
+                //    Map for best courses 
                    bestCurses.map(course=><BestCourse 
                    key={course._id}
                    course={course}

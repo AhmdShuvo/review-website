@@ -3,8 +3,9 @@ import { Card, Col } from 'react-bootstrap';
 
 
 const HomeServce = (props) => {
-    const {about,name,price,teacher,picture,_id}=props.course;
+    const {about,name,price,teacher,picture}=props.course;
     return (
+      // single course //
         <Col>
         <Card>
           <Card.Img variant="top" src={picture} />
