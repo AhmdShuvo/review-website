@@ -20,8 +20,32 @@ const Home = () => {
                 <h3>Learn Without Limits</h3>
                 <p>Build skills with courses, certificates, and degrees online from world-class universities and companies.</p>
             </div>
+      </div>
 
-           </div>
+
+
+      <h1>Why Teachdemy </h1>
+
+<div className=" container d-md-flex"> 
+   <div className="m-5">
+       <img src="./image/download.jfif" alt="" />
+
+       <center><h3>complete Certification</h3></center>
+   </div>
+   <div  className="m-5">
+
+       <img  src="./image/images (1).jfif" alt="" />
+       <center><h3>Quality Lectures </h3></center>
+   </div>
+   <div>
+
+       <img src="./image/images.jfif" alt="" />
+      <center> <h3>Better Learning Environmen</h3></center>
+   </div>
+             
+</div>
+
+
                       <div className="mt-5">
                           <h1>Courses</h1>
                             <Row xs={1} md={2} className="g-4">
@@ -36,6 +60,9 @@ const Home = () => {
     
                                  </Row>
                                           </div>
+
+
+                                          
              </div>
     );
 };
