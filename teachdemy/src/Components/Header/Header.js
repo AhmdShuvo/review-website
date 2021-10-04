@@ -22,7 +22,7 @@ const Header = () => {
   <div className="container text-success">
 
       {/* Website Header  */}
-     <center className="m-5"> <h1>Wellcome to TeachDemy Network </h1></center>
+     <center className="m-5"> <h1>Welcome to Teachdemy Network </h1></center>
   </div>
                 
 
